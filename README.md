@@ -26,7 +26,7 @@ In the next example, we ask the user to input a number. If the input is not a nu
 ### 7. 
 The output of the above code is shown below. When a number is entered, the following message is displayed. (Figure 7) ![figure 7](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure07.png)  
 ### 8.
-The output of the above code in figure 6 is shown below. When something other than a number is entered, the following message is displayed.(Figure 8)  ![figure 8](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure08.png)  
+The output of the above code in figure 6 is shown below. When something other than a number is entered, the following message is displayed.(Figure 8)   ![figure 8](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure08.png)  
 ### 9.
 The next section of code deals with pickling in Python. (http://www.tutorialspoint.com/python-pickling). The pickling module within Python us used for serializing and de-serializing python object structures. This is useful in scenarios where you want to transfer data from one system to another and then store it in a file or database. (Figure 9) ![figure 9](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure09.png)  
 ### 10.
