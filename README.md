@@ -12,4 +12,4 @@ In this assignment we are tasked with creating demonstration examples of error h
 
 ## Creating the Script
 ### 1.
-The purpose of this program is to create examples of how Pickling and Exceptions work in Python. The format of this assignment is different than previous assignments in that this week we are asked to create the examples and demonstrations ourselves. This is much more open ended than previous weeks and it’s on us to decide what examples to use. ![figure 1](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure01.png)  
+The purpose of this program is to create examples of how Pickling and Exceptions work in Python. The format of this assignment is different than previous assignments in that this week we are asked to create the examples and demonstrations ourselves. This is much more open ended than previous weeks and it’s on us to decide what examples to use.(Figure 1) ![figure 1](https://github.com/Arevalohm123/IntroToProg-Python-Mod7/blob/main/Figure01.png)  
